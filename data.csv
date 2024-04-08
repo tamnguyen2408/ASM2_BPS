@@ -1,0 +1,41 @@
+﻿Date;Product;Region;Quantity
+22/09/2023;Smartphone;North America;15
+18/11/2023;Tablet;Europe;73
+30/10/2023;Laptop;Asia-Pacific;42
+15/12/2023;Smartwatch;Latin America;88
+05/08/2023;Smartphone;Europe;20
+19/07/2023;Laptop;North America;57
+28/06/2023;Tablet;Asia-Pacific;32
+10/05/2023;Smartwatch;Latin America;65
+27/04/2023;Smartphone;Europe;10
+16/03/2023;Tablet;North America;80
+05/02/2023;Laptop;Asia-Pacific;25
+24/01/2023;Smartwatch;Europe;50
+11/12/2022;Smartphone;Latin America;37
+27/11/2022;Tablet;Asia-Pacific;18
+19/10/2022;Laptop;North America;90
+08/09/2022;Smartwatch;Europe;22
+30/08/2022;Smartphone;Latin America;45
+12/07/2022;Tablet;Asia-Pacific;28
+17/06/2022;Laptop;Europe;60
+03/05/2022;Smartwatch;North America;75
+null;Smartphone;Europe;60
+null;Tablet;null;55
+null;null;Asia-Pacific;48
+null;Smartwatch;Latin America;null
+null;Laptop;Europe;77
+null;null;North America;40
+null;Tablet;Asia-Pacific;63
+null;null;null;92
+null;Smartwatch;Europe;null
+null;Smartphone;null;55
+null;null;Latin America;32
+null;Tablet;Asia-Pacific;null
+null;Laptop;Europe;45
+null;Smartwatch;null;25
+null;Smartphone;Europe;null
+null;null;North America;82
+null;Tablet;null;60
+null;Laptop;Asia-Pacific;null
+null;Smartwatch;Europe;38
+null;Smartphone;Latin America;null
